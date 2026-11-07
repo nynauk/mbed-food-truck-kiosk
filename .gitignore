@@ -1,0 +1,6 @@
+BUILD/
+mbed-os/
+mbedlcdi2c/
+.mbed
+compile_commands.json
+.cache/
